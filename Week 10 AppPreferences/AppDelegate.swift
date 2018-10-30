@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Week 10 AppPreferences
 //
-//  Created by Charles Konkol on 10/26/17.
+//  Created by cis290 on 10/29/18.
 //  Copyright © 2017 RockValleyCollege. All rights reserved.
 //
 
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
